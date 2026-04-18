@@ -51,3 +51,25 @@ This project contributes to:
 - Consumer protection  
 - Regulatory compliance  
 - Responsible AI adoption in the U.S.
+## Use Case: AI-Based Credit Risk System
+
+This use case demonstrates how the framework can be applied to a real-world U.S. financial system:
+
+- AI model evaluates creditworthiness  
+- Risk classification applied  
+- Bias analysis performed  
+- Compliance with ECOA and FCRA enforced  
+- Continuous monitoring implemented  
+
+Outcome:
+
+- Reduced regulatory risk  
+- Improved fairness in decision-making  
+- Enhanced system reliability  
+## Related Projects
+
+- Cybersecurity Risk Assessment Framework  
+- Mobile Forensics Analysis (Data Exfiltration Scenario)  
+- AI Risk Taxonomy Models  
+
+These projects support the broader AI Governance system and demonstrate interdisciplinary capability.
