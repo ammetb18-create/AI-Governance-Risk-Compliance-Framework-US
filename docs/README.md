@@ -54,8 +54,31 @@ The full framework is documented in:
 
 /docs/AI_Governance_Whitepaper_US.pdf
 
+## Key Skills Demonstrated
+
+- AI Governance
+- Cybersecurity Governance
+- Governance, Risk & Compliance (GRC)
+- Risk Assessment Methodologies
+- Regulatory Compliance Mapping
+- NIST AI RMF Alignment
+- Financial Systems Risk Analysis
+- Security Governance Controls
+- Documentation & Technical Reporting
+- Cybersecurity Risk Analysis
+
+## Frameworks & References
+
+- NIST AI RMF
+- SR 11-7
+- ECOA
+- FCRA
+- UDAAP
+- AI Risk Classification Models
+- Governance & Compliance Methodologies
+
 ## Author
 
-America del Carmen Trujillo Bonilla
+América Trujillo
 
-This project demonstrates applied work in AI governance, cybersecurity, and regulatory compliance within the United States.
+This project demonstrates applied work in AI governance, cybersecurity, risk analysis, and regulatory compliance aligned with U.S. financial systems and cybersecurity governance principles.
