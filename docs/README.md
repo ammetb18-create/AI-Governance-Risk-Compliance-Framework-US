@@ -2,7 +2,7 @@
 
 ## Platform Preview
 
-<img src="ai-governance-dashboard.png" width="1000">
+<img src="./ai-governance-dashboard.png" width="1000">
 Example AI governance and compliance assessment interface designed for U.S. regulated financial environments.
 
 This repository presents a structured and applied framework developed to address critical risks associated with artificial intelligence (AI) systems in financial and regulated environments within the United States.
