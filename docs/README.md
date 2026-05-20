@@ -1,5 +1,11 @@
 # AI Governance & Risk Compliance Framework for U.S. Financial Systems
 
+## Platform Preview
+
+![AI Governance Dashboard](ai-governance-dashboard.png)
+
+Example AI governance and compliance assessment interface designed for U.S. regulated financial environments.
+
 This repository presents a structured and applied framework developed to address critical risks associated with artificial intelligence (AI) systems in financial and regulated environments within the United States.
 
 ## Objective
@@ -82,10 +88,3 @@ The full framework is documented in:
 América Trujillo
 
 This project demonstrates applied work in AI governance, cybersecurity, risk analysis, and regulatory compliance aligned with U.S. financial systems and cybersecurity governance principles.
-
-# AI Governance & Risk Compliance Framework for U.S. Financial Systems
-## Platform Preview
-
-![AI Governance Dashboard](ai-governance-dashboard.png)
-
-Example AI governance and compliance assessment interface designed for U.S. regulated financial environments.
